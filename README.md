@@ -10,7 +10,7 @@ Requirements
 
 Termux: https://github.com/KitsunedFox/termux-monet/releases/download/v0.118.0-33/termux-app_v0.118.0-33+apt-android-7-github-release_universal.apk
 
-SocksDroid: https://github.com/bndeff/socksdroid/releases/download/1.0.4/socksdroid-1.0.4.apk
+SocksDroid: https://github.com/dangvankhanhduy/socksdroid/raw/master/app/release/app-release.apk
 
 
 Method 1
