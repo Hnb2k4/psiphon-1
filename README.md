@@ -8,7 +8,7 @@ Requirements
 **Android**
 
 
-Termux: https://github.com/KitsunedFox/termux-monet/releases/download/v0.118.0-33/termux-app_v0.118.0-33+apt-android-7-github-release_universal.apk
+Termux: https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36+apt-android-7-github-debug_universal.apk
 
 SocksDroid: https://github.com/dangvankhanhduy/socksdroid/raw/master/app/release/app-release.apk
 
